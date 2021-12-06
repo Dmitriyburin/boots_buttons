@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="292b91ed-2d47-4936-81cd-020424b3b907" name="Changes" comment="">
+    <list default="true" id="292b91ed-2d47-4936-81cd-020424b3b907" name="Changes" comment="answer second question in hometask.txt">
       <change beforePath="$PROJECT_DIR$/ hometask.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ hometask.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638806346644</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="answer second question in hometask.txt">
+      <created>1638807833435</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1638807833435</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,6 +101,7 @@
     <MESSAGE value="add file xml" />
     <MESSAGE value="marge boots_buttons and hat" />
     <MESSAGE value="merge branch boots_buttons and hat" />
-    <option name="LAST_COMMIT_MESSAGE" value="merge branch boots_buttons and hat" />
+    <MESSAGE value="answer second question in hometask.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="answer second question in hometask.txt" />
   </component>
 </project>
